@@ -1,0 +1,13 @@
+groq
+streamlit
+transformers
+python-dotenv
+langchain-groq
+pandasai
+langchain
+langchain_community
+pandas
+plotly
+spacy
+requests
+chainlit

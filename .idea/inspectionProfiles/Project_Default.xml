@@ -1,0 +1,56 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="19">
+            <item index="0" class="java.lang.String" itemvalue="Werkzeug" />
+            <item index="1" class="java.lang.String" itemvalue="Flask" />
+            <item index="2" class="java.lang.String" itemvalue="random" />
+            <item index="3" class="java.lang.String" itemvalue="face_recognition" />
+            <item index="4" class="java.lang.String" itemvalue="zipfile" />
+            <item index="5" class="java.lang.String" itemvalue="re" />
+            <item index="6" class="java.lang.String" itemvalue="os" />
+            <item index="7" class="java.lang.String" itemvalue="time" />
+            <item index="8" class="java.lang.String" itemvalue="sentence_transformers" />
+            <item index="9" class="java.lang.String" itemvalue="streamlit" />
+            <item index="10" class="java.lang.String" itemvalue="streamlit_timeline" />
+            <item index="11" class="java.lang.String" itemvalue="streamlit_lottie" />
+            <item index="12" class="java.lang.String" itemvalue="llama-cpp-python" />
+            <item index="13" class="java.lang.String" itemvalue="Requests" />
+            <item index="14" class="java.lang.String" itemvalue="importlib_metadata" />
+            <item index="15" class="java.lang.String" itemvalue="transformers" />
+            <item index="16" class="java.lang.String" itemvalue="SQLAlchemy" />
+            <item index="17" class="java.lang.String" itemvalue="streamlit_option_menu" />
+            <item index="18" class="java.lang.String" itemvalue="base64" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E501" />
+          <option value="W605" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N812" />
+          <option value="N806" />
+          <option value="N801" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="home._Scrape_Links" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

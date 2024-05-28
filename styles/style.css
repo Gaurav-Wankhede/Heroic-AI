@@ -1,0 +1,13 @@
+/* Add a background image with blur effect */
+body {
+  background-image: url('background_image.jpg'); /* replace with your image URL */
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  margin: 0;
+}
+
+/* Remove the default Streamlit footer */
+.streamlit-footer {
+  display: none;
+}
